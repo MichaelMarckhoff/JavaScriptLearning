@@ -1,0 +1,6 @@
+Install localtunnel
+npm install localtunnel -g
+
+Über localtunnel veröffentlichen
+lt --port 3000 --subdomain marckhoff
+
